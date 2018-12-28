@@ -1,0 +1,68 @@
+:toc: auto
+:sectnums:
+:sectanchors:
+
+
+
+= ECE 212: The Design Process for Electrical and Computer Engineers
+
+A study of the design process as it relates to electrical and computer engineering.
+All steps of the design process will be considered in depth, and students will complete both incremental projects and a comprehensive design project that integrates their knowledge of the course material with technical design constraints.
+
+1 cr.
+Prerequisites: ECE 221, ECE 251, and ECE 263.
+
+
+== Learning Objectives
+
+* Explain the engineering design process.
+* Perform all steps of the engineering design process.
+* Design a solution to meet specified needs within realistic constraints.
+* Work effectively as a member of a team.
+* Recognize ethical and professional responsibilities in engineering situations.
+
+
+
+== Schedule
+
+=== Introduction
+
+
+=== Design Reviews
+
+
+==== An Introduction to Design Reviews - Kenneth Kuhn
+http://www.kennethkuhn.com/students/design%20reviews.htm[An Introduction to Design Reviews - Kenneth Kuhn^]
+
+
+=== Team Meetings
+
+
+=== System Design Requirements
+
+
+=== Design Process
+
+http://www.kennethkuhn.com/students/the%20science%20of%20design.htm[The Science of Design - Kenneth Kuhn^]
+
+
+=== 
+
+===
+
+=== 
+
+=== 
+
+=== 
+
+=== 
+
+=== 
+
+=== 
+
+=== 
+
+
+// vim: tw=0
