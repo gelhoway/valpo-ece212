@@ -1,0 +1,110 @@
+:toc: auto
+:sectnums:
+:sectanchors:
+
+
+= ECE 212: Syllabus
+
+
+== Information
+
+A study of the design process as it relates to electrical and computer engineering.
+All steps of the design process will be considered in depth, and students will complete both incremental projects and a comprehensive design project that integrates their knowledge of the course material with technical design constraints.
+
+[horizontal]
+Credits:: 1 cr.
+Prerequisites:: ECE 221, ECE 251, and ECE 263
+
+
+=== Learning Objectives
+
+* Explain the engineering design process.
+* Perform all steps of the engineering design process.
+* Design a solution to meet specified needs within realistic constraints.
+* Work effectively as a member of a team.
+* Recognize ethical and professional responsibilities in engineering situations.
+
+== Logistics
+
+Instructors::
+* Dan White (Monday, Wednesday)
+** dan.white@valpo.edu
+** Slack: `@prof-white`
+** Office: GEM 205
+* Georges El-Howayek (Friday)
+** Slack: `@prof.howayek`
+** Office: GEM ???
+
+Time::
+* *Section A* -- 8:00 AM Monday
+* *Section B* -- 8:00 AM Wednesday
+* *Section C* -- 8:00 AM Friday
+
+Location:: GEM 166
+
+
+https://blackboard.valpo.edu[Blackboard^]
+
+https://valpo-engr.slack.com/signup[Slack signup^]
+
+
+
+=== Grading
+
+
+The following percentages on the weighted score for the semester will guarantee the letter grades shown:
+
+|===
+
+| &ge; 93    | A
+| &ge; 90    | A-
+| &ge; 87    | B+
+| &ge; 83    | B
+| &ge; 80    | B-
+| &ge; 77    | C+
+| &ge; 73    | C
+| &ge; 70    | C-
+| &ge; 67    | D+
+| &ge; 63    | D
+| &ge; 60    | D-
+| &lt; 60  | F
+|===
+
+
+== Honor Code
+> I have neither given or received, nor have I tolerated others' use of unauthorized aid.
+
+This statement is written on all homework, quizzes and exams at Valparaiso University.
+Every student must write it out the Honor Code in full and sign it for all work submitted for academic credit.
+It expresses the promise of the student not to cheat through action or inaction.
+This allows unproctored examinations and expresses the faith of the faculty in the student body.
+
+The student initiated Honor System, administered by the Honor Council and its constituent bodies, is recognized and approved by Valparaiso University as an integral part of the regulations under which students in the undergraduate colleges become members of the university community.
+Therefore, it is impossible for anyone to become a member of the university without both explicit and implicit adherence to the Honor System.
+
+Every student has the responsibility to keep academics free of dishonesty, that is, to neither give or receive unauthorized aid.
+Non-toleration of the use of unauthorized aid is a further responsibility that is inherent in the Honor System.
+Each student must report to the Honor Council any violation of the System of which the student becomes aware, free from the pressure of ensuing penalty. 
+
+*Remember, it shall be the responsibility of the student, when in doubt, to ask the instructor what is or is not authorized aid.*
+
+For more information: http://www.valpo.edu/student/honorcouncil
+
+
+
+
+== Access and Accommodataion
+The Access & Accommodations Resource Center (AARC) is the campus office that works with students to provide access and accommodations in cases of diagnosed mental or emotional health issues, attentional or learning disabilities, vision or hearing limitations, chronic diseases, or allergies.
+You can contact the office at aarc@valpo.edu or 219.464.5206.
+Students who need, or think they may need, accommodations due to a diagnosis, or who think they have a diagnosis, are invited to contact AARC to arrange a confidential discussion with the AARC office.
+Further, students who are registered with AARC are required to contact their professor(s) if they wish to exercise the accommodations outlined in their letter from the AARC.
+
+
+== Class Cancellation Policy
+Notifications of class cancellations will be made through Blackboard with as much advance notice as possible.
+It will be both posted on Blackboard and sent to your Valpo e-mail address.
+If you don't check your Valpo e-mail account regularly or have it set-up to be forwarded to your preferred e-mail account, you may not get the message.
+Please check Blackboard and your Valpo e-mail (or the e-mail address it forwards to) before coming to class.
+
+
+// vim: tw=0
