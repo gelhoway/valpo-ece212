@@ -120,4 +120,5 @@ If you don't check your Valpo e-mail account regularly or have it set-up to be f
 Please check Blackboard and your Valpo e-mail (or the e-mail address it forwards to) before coming to class.
 
 
+
 // vim: tw=0
