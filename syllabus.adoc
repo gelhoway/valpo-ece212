@@ -33,7 +33,7 @@ Instructors::
 ** Office: GEM 205
 * Georges El-Howayek (Friday)
 ** Slack: `@prof.howayek`
-** Office: GEM ???
+** Office: GEM 109
 
 Time::
 * *Section A* -- 8:00 AM Monday
@@ -54,6 +54,7 @@ https://valpo-engr.slack.com/signup[Slack signup^]
 
 The following percentages on the weighted score for the semester will guarantee the letter grades shown:
 
+.Score to letter grade mapping
 |===
 
 | &ge; 93    | A
@@ -69,6 +70,18 @@ The following percentages on the weighted score for the semester will guarantee 
 | &ge; 60    | D-
 | &lt; 60  | F
 |===
+
+
+
+.Score weighting
+|===
+| Category          | Percentage
+
+| Guided practice   | 30
+| Homework          | 30
+| Project           | 40
+|===
+
 
 
 == Honor Code
