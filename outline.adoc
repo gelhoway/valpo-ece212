@@ -25,7 +25,20 @@ Prerequisites: ECE 221, ECE 251, and ECE 263.
 
 == Schedule
 
-=== Introduction
+=== Introduction -- Design Process
+
+http://www.kennethkuhn.com/students/the%20science%20of%20design.htm[The Science of Design - Kenneth Kuhn^]
+
+
+
+=== System Design Requirements
+
+https://youtu.be/fgqt9SrqKfs
+
+
+
+
+=== Team Meetings
 
 
 === Design Reviews
@@ -35,32 +48,39 @@ Prerequisites: ECE 221, ECE 251, and ECE 263.
 http://www.kennethkuhn.com/students/design%20reviews.htm[An Introduction to Design Reviews - Kenneth Kuhn^]
 
 
-=== Team Meetings
 
 
-=== System Design Requirements
+=== Realistic Constraints
 
+=== Solution Evaluation
+Define the meaning of "`best`".
 
-=== Design Process
+=== Minimum Viable Prototype
 
-http://www.kennethkuhn.com/students/the%20science%20of%20design.htm[The Science of Design - Kenneth Kuhn^]
+=== Testing and Verification
+
+=== Process Improvement
+
+=== Professional Responsiblilities
+
+https://en.wikipedia.org/wiki/Engineering_ethics
+
+https://www.ieee.org/about/corporate/governance/p7-8.html[IEEE code of ethics]
+
+https://www.edn.com/electronics-blogs/the-noble-profession/4238028/The-IEEE-Code-of-Ethics[EDN - The IEEE Code of Ethics]
+
+https://www.computer.org/web/education/code-of-ethics
+
 
 
 === 
 
-===
 
 === 
 
-=== 
 
 === 
 
-=== 
-
-=== 
-
-=== 
 
 === 
 
