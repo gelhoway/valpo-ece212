@@ -15,26 +15,72 @@ Prerequisites: ECE 221, ECE 251, and ECE 263.
 
 == Learning Objectives
 
-* Explain the engineering design process.
-* Perform all steps of the engineering design process.
-* Design a solution to meet specified needs within realistic constraints.
-* Work effectively as a member of a team.
-* Recognize ethical and professional responsibilities in engineering situations.
+// use these anchors to reference the course-level objectives in the week-level
+// items like  <<LO-4>>
+1. [[LO-1]] Explain the engineering design process.
+
+2. [[LO-2]] Perform all steps of the engineering design process.
+ 
+3. [[LO-3]] Design a solution to meet specified needs within realistic constraints.
+
+4. [[LO-4]] Work effectively as a member of a team.
+
+5. [[LO-5]] Recognize ethical and professional responsibilities in engineering situations.
 
 
 
 == Schedule
+Sub-section numbers are the class session / week numbers.
+
+https://docs.google.com/spreadsheets/d/1lhiTP_FWcWIptPWG0bhi009jbC8wNhC_0vyd-29lNwA/edit?usp=sharing[Schedule mapping class number to dates for each section^]
+
 
 === Introduction -- Design Process
-
 http://www.kennethkuhn.com/students/the%20science%20of%20design.htm[The Science of Design - Kenneth Kuhn^]
 
+==== Due before class
+The 0-credit deadline is before class 2, but best done right away.
+
+* [ ] Signup for a Slack account at https://valpo-engr.slack.com/signup
+
+==== During class
+> Design is seeing a thing that does not yet exist and making it happen.
+
+* Course introduction and brief syllabus review.
+*
+
+==== After class
+Find 
 
 
-=== System Design Requirements
 
+
+=== System Requirements 1
 https://youtu.be/fgqt9SrqKfs
 
+* EARS -- Easy Approach to Requirements Syntax
+* Requirement vs. Implementation | What vs. How
+
+==== Due before class
+Read EARS resource
+
+What vs. how
+
+==== During class
+
+==== After class
+
+
+=== System Requirements 2
+"Requirements Bingo"
+
+<<LO-1>>
+
+==== Due before class
+
+==== During class
+
+==== After class
 
 
 
@@ -71,9 +117,6 @@ https://www.edn.com/electronics-blogs/the-noble-profession/4238028/The-IEEE-Code
 
 https://www.computer.org/web/education/code-of-ethics
 
-
-
-=== 
 
 
 === 
