@@ -1,0 +1,25 @@
+<Files ~ "^.*\.([Hh][Tt][Aa])">
+    order allow,deny
+    deny from all
+</Files>
+
+<IfModule mod_autoindex.c>
+    Options +Indexes
+    IndexOptions +FancyIndexing
+    IndexOptions +XHTML
+    IndexOptions +HTMLTable
+    IndexOptions +FoldersFirst
+    IndexOptions +SuppressHTMLPreamble
+    IndexOptions +SuppressDescription
+    IndexOptions +SuppressSize
+    IndexOptions +SuppressRules
+    IndexOptions +IgnoreCase
+    IndexOptions +IconsAreLinks
+    IndexOptions +Charset=UTF-8
+    IndexOptions +NameWidth=*
+    HeaderName "header.html"
+    ReadmeName "footer.html"
+    IndexIgnore HEADER.html header.html footer.html bootstrap.min.* jquery-* .htaccess
+    IndexIgnore css common
+    IndexIgnore ..
+</IfModule>
