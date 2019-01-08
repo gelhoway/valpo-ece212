@@ -93,6 +93,7 @@ https://valpo-engr.slack.com/signup[Slack signup^] for an account.
 
 
 .Score weighting
+[options="autowidth"]
 |===
 | Category          | Percentage
 
@@ -103,7 +104,9 @@ https://valpo-engr.slack.com/signup[Slack signup^] for an account.
 
 
 .The following percentages on the weighted score for the semester will guarantee the letter grades shown.
+[options="autowidth"]
 |===
+|Percentage  | Letter
 
 | &ge; 93    | A
 | &ge; 90    | A-
@@ -116,7 +119,7 @@ https://valpo-engr.slack.com/signup[Slack signup^] for an account.
 | &ge; 67    | D+
 | &ge; 63    | D
 | &ge; 60    | D-
-| &lt; 60  | F
+| &lt; 60    | F
 |===
 
 
