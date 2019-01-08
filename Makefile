@@ -18,7 +18,7 @@ ASCIIDOCTOR_OPTS+=-a scriptsdir=js
 ASCIIDOCTOR_OPTS+=-a stem=latexmath
 ASCIIDOCTOR_OPTS+=-a docinfo=shared
 ASCIIDOCTOR_OPTS+=-a docinfodir=common
-ASCIIDOCTOR_OPTS+=-a sectnums
+#ASCIIDOCTOR_OPTS+=-a sectnums
 ASCIIDOCTOR_OPTS+=-a sectanchors
 ASCIIDOCTOR_OPTS+=-a xrefstyle=full
 ASCIIDOCTOR_OPTS+=-a stylesheet=asciidoctor.css
@@ -72,6 +72,11 @@ HEADER.html: HEADER.adoc
 %.html: %.adoc
 	SOURCE_DATE_EPOCH=$(shell git log -1 --pretty=%ct) asciidoctor \
 	    $(ASCIIDOCTOR_OPTS) \
+	    $<
+
+%-slides.html: %-slides.adoc %.adoc $(RESOURCES)
+	SOURCE_DATE_EPOCH=$(shell git log -1 --pretty=%ct) \
+	    bundle exec asciidoctor-revealjs \
 	    $<
 
 #%.pdf: %.adoc

@@ -1,113 +1,164 @@
-:toc: auto
-:sectnums:
+:toc: left
 :sectanchors:
 
 
 
-= ECE 212: The Design Process for Electrical and Computer Engineers
+= ECE 212: Outline
 
-A study of the design process as it relates to electrical and computer engineering.
-All steps of the design process will be considered in depth, and students will complete both incremental projects and a comprehensive design project that integrates their knowledge of the course material with technical design constraints.
-
-1 cr.
-Prerequisites: ECE 221, ECE 251, and ECE 263.
-
-
-== Learning Objectives
-
-// use these anchors to reference the course-level objectives in the week-level
-// items like  <<LO-4>>
-1. [[LO-1]] Explain the engineering design process.
-
-2. [[LO-2]] Perform all steps of the engineering design process.
- 
-3. [[LO-3]] Design a solution to meet specified needs within realistic constraints.
-
-4. [[LO-4]] Work effectively as a member of a team.
-
-5. [[LO-5]] Recognize ethical and professional responsibilities in engineering situations.
-
-
-
-== Schedule
-Sub-section numbers are the class session / week numbers.
+Sub-section numbers correspond to the class session / week numbers.
 
 https://docs.google.com/spreadsheets/d/1lhiTP_FWcWIptPWG0bhi009jbC8wNhC_0vyd-29lNwA/edit?usp=sharing[Schedule mapping class number to dates for each section^]
 
+<<outline-slides.adoc#,Slides view^>>
 
-=== Introduction -- Design Process
-http://www.kennethkuhn.com/students/the%20science%20of%20design.htm[The Science of Design - Kenneth Kuhn^]
 
-==== Due before class
-The 0-credit deadline is before class 2, but best done right away.
+== 1 -- Introduction to the Design Process
+
+ECE 212
+
+(sign in to a lab PC)
+
+=== Due before class
+The deadline is actually before class 2, but best done right away.
 
 * [ ] Signup for a Slack account at https://valpo-engr.slack.com/signup
+* [ ] Join your section's course in <<syllabus.adoc#_google_classroom,Google Classroom>>
 
-==== During class
+
+=== Class time
+
+
+ifdef::backend-revealjs[=== !]
+.La Clarivoyance -- René Magritte
+[link=https://www.renemagritte.org/la-clairvoyance.jsp]
+image::magritte-la-clairvoyance.jpg[background,size=contain]
+
+
+[NOTE.speaker]
+--
+What is the main idea of this painting?
+
+10 min total, ~ 3 min looking.
+Class observations to the whiteboard.
+--
+
+
+ifdef::backend-revealjs[=== !]
 > Design is seeing a thing that does not yet exist and making it happen.
 
-* Course introduction and brief syllabus review.
-*
 
-==== After class
+ifdef::backend-revealjs[=== !]
+* Course introduction and brief <<syllabus.adoc#_,Syllabus>> review.
+
+
+
+[background-color="white"]
+ifdef::backend-revealjs[=== !]
+.MA Dept. of Ed. Engineering Curriculum Framework
+[link=https://www.linkengineering.org/Explore/EngineeringDesign/5824.aspx]
+image::MA_DoEd_EngineeringDesign.jpg[background,size=contain]
+
+
+
+ifdef::backend-revealjs[=== !]
+.EiE Engineering Design Process
+[link=https://www.eie.org/overview/engineering-design-process]
+image::edp_basic.png[background,size=contain]
+
+
+ifdef::backend-revealjs[=== !]
+[%step]
+* *Ask:* What is the problem? How have others approached it? What are your constraints?
+
+* *Imagine:* What are some solutions? Brainstorm ideas. Choose the best one.
+
+* *Plan:* Draw a diagram. Make lists of materials you will need.
+
+* *Create:* Follow your plan and create something. Test it out!
+
+* *Improve:* What works? What doesn't? What could work better? Modify your design to make it better. Test it out!
+
+
+=== After class
 Find 
 
 
+=== Resources
+http://www.kennethkuhn.com/students/the%20science%20of%20design.htm[The Science of Design - Kenneth Kuhn^]
 
 
-=== System Requirements 1
+'''
+<<<
+== 2 -- System Requirements 1
 https://youtu.be/fgqt9SrqKfs
 
 * EARS -- Easy Approach to Requirements Syntax
 * Requirement vs. Implementation | What vs. How
 
-==== Due before class
+=== Due before class
 Read EARS resource
 
 What vs. how
 
-==== During class
+=== During class
 
-==== After class
+=== After class
 
 
-=== System Requirements 2
+'''
+<<<
+== 3 -- System Requirements 2
 "Requirements Bingo"
 
 <<LO-1>>
 
-==== Due before class
+=== Due before class
 
-==== During class
+=== During class
 
-==== After class
-
-
-
-=== Team Meetings
+=== After class
 
 
-=== Design Reviews
+
+'''
+<<<
+== 4 -- Team Meetings
 
 
-==== An Introduction to Design Reviews - Kenneth Kuhn
+'''
+<<<
+== 5 -- Design Reviews
+
+
+=== An Introduction to Design Reviews - Kenneth Kuhn
 http://www.kennethkuhn.com/students/design%20reviews.htm[An Introduction to Design Reviews - Kenneth Kuhn^]
 
 
 
+'''
+<<<
+== 6 -- Realistic Constraints
 
-=== Realistic Constraints
-
-=== Solution Evaluation
+'''
+<<<
+== 7 -- Solution Evaluation
 Define the meaning of "`best`".
 
-=== Minimum Viable Prototype
+'''
+<<<
+== 8 -- Minimum Viable Prototype
 
-=== Testing and Verification
+'''
+<<<
+== 9 -- Testing and Verification
 
-=== Process Improvement
+'''
+<<<
+== 10 -- Process Improvement
 
-=== Professional Responsiblilities
+'''
+<<<
+== 11 -- Professional Responsiblilities
 
 https://en.wikipedia.org/wiki/Engineering_ethics
 
@@ -119,13 +170,6 @@ https://www.computer.org/web/education/code-of-ethics
 
 
 
-=== 
-
-
-=== 
-
-
-=== 
 
 
 // vim: tw=0

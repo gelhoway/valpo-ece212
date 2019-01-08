@@ -1,9 +1,11 @@
-:toc: auto
+:toc: left
 :sectnums:
 :sectanchors:
 
 
 = ECE 212: Syllabus
+
+The Design Process for Electrical and Computer Engineers
 
 
 == Information
@@ -16,47 +18,91 @@ Credits:: 1 cr.
 Prerequisites:: ECE 221, ECE 251, and ECE 263
 
 
-=== Learning Objectives
+== Learning Objectives
 
-* Explain the engineering design process.
-* Perform all steps of the engineering design process.
-* Design a solution to meet specified needs within realistic constraints.
-* Work effectively as a member of a team.
-* Recognize ethical and professional responsibilities in engineering situations.
+// use these anchors to reference the course-level objectives in the week-level
+// items like  <<LO-perform>>
+1. [[LO-explain]] Explain the engineering design process.
+
+2. [[LO-perform]] Perform all steps of the engineering design process.
+ 
+3. [[LO-constraints]] Design a solution to meet specified needs within realistic constraints.
+
+4. [[LO-team]] Work effectively as a member of a team.
+
+5. [[LO-ethics]] Recognize ethical and professional responsibilities in engineering situations.
+
+
 
 == Logistics
 
-Instructors::
-* Dan White (Monday, Wednesday)
-** dan.white@valpo.edu
-** Slack: `@prof-white`
-** Office: GEM 205
-* Georges El-Howayek (Friday)
-** Slack: `@prof.howayek`
-** Office: GEM 109
+=== Instructors
+Dan White (Monday, Wednesday)::
+* dan.white@valpo.edu
+* Slack: `@prof-white`
+* Office: GEM 205
 
-Time::
+Georges El-Howayek (Friday)::
+* georges.el-howayek@valpo.edu
+* Slack: `@prof.howayek`
+* Office: GEM 109
+
+=== Location and Time
+[horizontal]
+Location:: GEM 166
+
+// prevent merging ^ and v together
 * *Section A* -- 8:00 AM Monday
 * *Section B* -- 8:00 AM Wednesday
 * *Section C* -- 8:00 AM Friday
 
-Location:: GEM 166
+https://docs.google.com/spreadsheets/d/1lhiTP_FWcWIptPWG0bhi009jbC8wNhC_0vyd-29lNwA/edit?usp=sharing[This spreadsheet maps the session number to date for each section^].
 
 *Note:* you must pay attention to the specific weekly schedule for _your section_ only.
 Because of the various University no-classes days, your classmates in other sections may be up to 2 weeks ahead or behind your section at any particular moment.
 
-https://blackboard.valpo.edu[Blackboard^]
 
-https://valpo-engr.slack.com/signup[Slack signup^]
+=== Google Classroom
+Instead of Blackboard for this course, each section will use Google Classroom for assignments, announcements, and links to extra resources.
+
+Go to https://classroom.google.com[^] (login to your Valpo Google account if necessary) and click on the &oplus; in the upper-right.
+Use the code for your specific section to join.
+This also creates a G-Calendar for the course.
+
+.Google Classroom course codes
+[options="autowidth"]
+|===
+| Section   | Code
+
+| A  | `1tyf8g`
+| B  | `64bzpx`
+| C  | `uu5qhhp`
+|===
+
+
+=== Slack
+Course-wide discussion and questions will use the chat application Slack.
+The College of Engineering has our own workspace (https://valpo-engr.slack.com[`valpo-engr.slack.com`]) which keeps all of your CoE-related channels in the same account for convenience.
+You may request to have new channels added to consolidate other engineering course or organization channels.
+
+https://valpo-engr.slack.com/signup[Slack signup^] for an account.
 
 
 
-=== Grading
+== Grading
 
 
-The following percentages on the weighted score for the semester will guarantee the letter grades shown:
+.Score weighting
+|===
+| Category          | Percentage
 
-.Score to letter grade mapping
+| Guided practice   | 30
+| Homework          | 30
+| Project           | 40
+|===
+
+
+.The following percentages on the weighted score for the semester will guarantee the letter grades shown.
 |===
 
 | &ge; 93    | A
@@ -73,16 +119,6 @@ The following percentages on the weighted score for the semester will guarantee 
 | &lt; 60  | F
 |===
 
-
-
-.Score weighting
-|===
-| Category          | Percentage
-
-| Guided practice   | 30
-| Homework          | 30
-| Project           | 40
-|===
 
 
 
