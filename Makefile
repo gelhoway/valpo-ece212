@@ -96,3 +96,5 @@ outline.html: outline.adoc $(wildcard ?-*.adoc) $(wildcard ??-*.adoc)
 	rm $<.tmp.html
 
 
+clean:
+	rm $(SOURCE:.adoc=.html)

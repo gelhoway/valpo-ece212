@@ -34,6 +34,27 @@ ifdef::backend-revealjs[== !]
 * *Improve:* What works? What doesn't? What could work better? Modify your design to make it better. Test it out!
 
 
+
+
+
+ifdef::backend-revealjs[== !]
+.NCETE Engineering Design Process
+[link=https://digitalcommons.usu.edu/ncete_publications/166/]
+image::NCETE_EngineeringDesign.jpg[background,size=contain]
+
+
+
+
+
+
+ifdef::backend-revealjs[== !]
+.UTeach__Engineering__ Engineering Design Process
+[link=https://www.asee.org/public/conferences/8/papers/4130/]
+image::UTeachEngineering-process.png[background,size=contain]
+
+
+
+
 == After class
 
 
