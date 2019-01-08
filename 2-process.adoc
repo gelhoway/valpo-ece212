@@ -16,6 +16,7 @@ image::MA_DoEd_EngineeringDesign.jpg[background,size=contain]
 == Class time
 <<2-process-slides.adoc#,Slides>>
 
+[background-color="white"]
 ifdef::backend-revealjs[== !]
 .EiE Engineering Design Process
 [link=https://www.eie.org/overview/engineering-design-process]
@@ -37,6 +38,7 @@ ifdef::backend-revealjs[== !]
 
 
 
+[background-color="white"]
 ifdef::backend-revealjs[== !]
 .NCETE Engineering Design Process
 [link=https://digitalcommons.usu.edu/ncete_publications/166/]
@@ -47,9 +49,10 @@ image::NCETE_EngineeringDesign.jpg[background,size=contain]
 
 
 
+[background-color="white"]
 ifdef::backend-revealjs[== !]
 .UTeach__Engineering__ Engineering Design Process
-[link=https://www.asee.org/public/conferences/8/papers/4130/]
+[link=https://www.asee.org/public/conferences/8/papers/4130/view]
 image::UTeachEngineering-process.png[background,size=contain]
 
 
