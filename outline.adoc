@@ -60,6 +60,7 @@ image::MA_DoEd_EngineeringDesign.jpg[background,size=contain]
 
 
 
+
 ifdef::backend-revealjs[=== !]
 .EiE Engineering Design Process
 [link=https://www.eie.org/overview/engineering-design-process]
@@ -77,6 +78,14 @@ ifdef::backend-revealjs[=== !]
 * *Create:* Follow your plan and create something. Test it out!
 
 * *Improve:* What works? What doesn't? What could work better? Modify your design to make it better. Test it out!
+
+
+
+ifdef::backend-revealjs[=== !]
+.Is It Worth the Time?
+[link=https://xkcd.com/1205/]
+image::is_it_worth_the_time.png[background,size=contain]
+
 
 
 === After class
