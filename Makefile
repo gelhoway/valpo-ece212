@@ -74,6 +74,8 @@ HEADER.html: HEADER.adoc
 	    $(ASCIIDOCTOR_OPTS) \
 	    $<
 
+outline.html: outline.adoc $(wildcard ?-*.adoc) $(wildcard ??-*.adoc)
+
 %-slides.html: %-slides.adoc %.adoc $(RESOURCES)
 	SOURCE_DATE_EPOCH=$(shell git log -1 --pretty=%ct) \
 	    bundle exec asciidoctor-revealjs \

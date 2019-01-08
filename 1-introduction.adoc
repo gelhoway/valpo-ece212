@@ -1,0 +1,59 @@
+
+
+= Introduction to Design
+
+ECE 212
+
+(sign in to a lab PC)
+
+== Preparation
+
+* [ ] Signup for a Slack account at https://valpo-engr.slack.com/signup
+* [ ] Join your section's course in <<syllabus.adoc#_google_classroom,Google Classroom>>
+
+
+== Class time
+<<1-introduction-slides.adoc#,Slides>>
+
+
+
+ifdef::backend-revealjs[=== !]
+.La Clairvoyance -- René Magritte
+[link=https://www.renemagritte.org/la-clairvoyance.jsp]
+image::magritte-la-clairvoyance.jpg[background,size=contain]
+
+
+[NOTE.speaker]
+--
+What is the main idea of this painting?
+
+10 min total, ~ 3 min looking.
+Class observations to the whiteboard.
+--
+
+
+ifdef::backend-revealjs[=== !]
+> Design is seeing a thing that does not yet exist and making it happen.
+
+
+ifdef::backend-revealjs[=== !]
+* Course introduction and brief <<syllabus.adoc#_,Syllabus>> review.
+
+
+
+
+ifdef::backend-revealjs[=== !]
+.Is It Worth the Time?
+[link=https://xkcd.com/1205/]
+image::is_it_worth_the_time.png[background,size=contain]
+
+
+
+== After class
+Find 
+
+
+== Resources
+http://www.kennethkuhn.com/students/the%20science%20of%20design.htm[The Science of Design - Kenneth Kuhn^]
+
+

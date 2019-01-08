@@ -1,4 +1,6 @@
 :toc: left
+:sectnums:
+:sectnumlevels: 2
 :sectanchors:
 
 
@@ -9,96 +11,14 @@ Sub-section numbers correspond to the class session / week numbers.
 
 https://docs.google.com/spreadsheets/d/1lhiTP_FWcWIptPWG0bhi009jbC8wNhC_0vyd-29lNwA/edit?usp=sharing[Schedule mapping class number to dates for each section^]
 
-<<outline-slides.adoc#,Slides view^>>
 
 
-== 1 -- Introduction to the Design Process
+include::1-introduction.adoc[leveloffset=+1]
 
-ECE 212
-
-(sign in to a lab PC)
-
-=== Due before class
-The deadline is actually before class 2, but best done right away.
-
-* [ ] Signup for a Slack account at https://valpo-engr.slack.com/signup
-* [ ] Join your section's course in <<syllabus.adoc#_google_classroom,Google Classroom>>
+include::2-process.adoc[leveloffset=+1]
 
 
-=== Class time
-
-
-ifdef::backend-revealjs[=== !]
-.La Clarivoyance -- René Magritte
-[link=https://www.renemagritte.org/la-clairvoyance.jsp]
-image::magritte-la-clairvoyance.jpg[background,size=contain]
-
-
-[NOTE.speaker]
---
-What is the main idea of this painting?
-
-10 min total, ~ 3 min looking.
-Class observations to the whiteboard.
---
-
-
-ifdef::backend-revealjs[=== !]
-> Design is seeing a thing that does not yet exist and making it happen.
-
-
-ifdef::backend-revealjs[=== !]
-* Course introduction and brief <<syllabus.adoc#_,Syllabus>> review.
-
-
-
-[background-color="white"]
-ifdef::backend-revealjs[=== !]
-.MA Dept. of Ed. Engineering Curriculum Framework
-[link=https://www.linkengineering.org/Explore/EngineeringDesign/5824.aspx]
-image::MA_DoEd_EngineeringDesign.jpg[background,size=contain]
-
-
-
-
-ifdef::backend-revealjs[=== !]
-.EiE Engineering Design Process
-[link=https://www.eie.org/overview/engineering-design-process]
-image::edp_basic.png[background,size=contain]
-
-
-ifdef::backend-revealjs[=== !]
-[%step]
-* *Ask:* What is the problem? How have others approached it? What are your constraints?
-
-* *Imagine:* What are some solutions? Brainstorm ideas. Choose the best one.
-
-* *Plan:* Draw a diagram. Make lists of materials you will need.
-
-* *Create:* Follow your plan and create something. Test it out!
-
-* *Improve:* What works? What doesn't? What could work better? Modify your design to make it better. Test it out!
-
-
-
-ifdef::backend-revealjs[=== !]
-.Is It Worth the Time?
-[link=https://xkcd.com/1205/]
-image::is_it_worth_the_time.png[background,size=contain]
-
-
-
-=== After class
-Find 
-
-
-=== Resources
-http://www.kennethkuhn.com/students/the%20science%20of%20design.htm[The Science of Design - Kenneth Kuhn^]
-
-
-'''
-<<<
-== 2 -- System Requirements 1
+== System Requirements 1
 https://youtu.be/fgqt9SrqKfs
 
 * EARS -- Easy Approach to Requirements Syntax
@@ -116,7 +36,7 @@ What vs. how
 
 '''
 <<<
-== 3 -- System Requirements 2
+== System Requirements 2
 "Requirements Bingo"
 
 <<LO-1>>
@@ -131,12 +51,12 @@ What vs. how
 
 '''
 <<<
-== 4 -- Team Meetings
+== Team Meetings
 
 
 '''
 <<<
-== 5 -- Design Reviews
+== Design Reviews
 
 
 === An Introduction to Design Reviews - Kenneth Kuhn
@@ -146,28 +66,28 @@ http://www.kennethkuhn.com/students/design%20reviews.htm[An Introduction to Desi
 
 '''
 <<<
-== 6 -- Realistic Constraints
+== Realistic Constraints
 
 '''
 <<<
-== 7 -- Solution Evaluation
+== Solution Evaluation
 Define the meaning of "`best`".
 
 '''
 <<<
-== 8 -- Minimum Viable Prototype
+== Minimum Viable Prototype
 
 '''
 <<<
-== 9 -- Testing and Verification
+== Testing and Verification
 
 '''
 <<<
-== 10 -- Process Improvement
+== Process Improvement
 
 '''
 <<<
-== 11 -- Professional Responsiblilities
+== Professional Responsiblilities
 
 https://en.wikipedia.org/wiki/Engineering_ethics
 

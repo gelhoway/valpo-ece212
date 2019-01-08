@@ -1,0 +1,41 @@
+
+= Engineering Design Process
+
+
+
+== Preparation
+
+[background-color="white"]
+ifdef::backend-revealjs[== !]
+.MA Dept. of Ed. Engineering Curriculum Framework
+[link=https://www.linkengineering.org/Explore/EngineeringDesign/5824.aspx]
+image::MA_DoEd_EngineeringDesign.jpg[background,size=contain]
+
+
+
+== Class time
+<<2-process-slides.adoc#,Slides>>
+
+ifdef::backend-revealjs[== !]
+.EiE Engineering Design Process
+[link=https://www.eie.org/overview/engineering-design-process]
+image::edp_basic.png[background,size=contain]
+
+
+ifdef::backend-revealjs[== !]
+* *Ask:* What is the problem? How have others approached it? What are your constraints?
+
+* *Imagine:* What are some solutions? Brainstorm ideas. Choose the best one.
+
+* *Plan:* Draw a diagram. Make lists of materials you will need.
+
+* *Create:* Follow your plan and create something. Test it out!
+
+* *Improve:* What works? What doesn't? What could work better? Modify your design to make it better. Test it out!
+
+
+== After class
+
+
+== Resources
+

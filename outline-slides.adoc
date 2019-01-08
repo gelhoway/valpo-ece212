@@ -1,3 +1,0 @@
-:imagesdir: fig
-
-include::outline.adoc[]
