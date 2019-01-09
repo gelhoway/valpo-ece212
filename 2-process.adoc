@@ -5,11 +5,12 @@
 
 == Preparation
 
+=== MA DoEd Engineering Design
 [background-color="white"]
-ifdef::backend-revealjs[== !]
+//ifdef::backend-revealjs[== !]
 .MA Dept. of Ed. Engineering Curriculum Framework
 [link=https://www.linkengineering.org/Explore/EngineeringDesign/5824.aspx]
-image::MA_DoEd_EngineeringDesign.jpg[background,size=contain]
+image::MA_DoEd_EngineeringDesign.jpg[width=800,background,size=contain]
 
 
 
@@ -53,7 +54,7 @@ image::NCETE_EngineeringDesign.jpg[background,size=contain]
 ifdef::backend-revealjs[== !]
 .UTeach__Engineering__ Engineering Design Process
 [link=https://www.asee.org/public/conferences/8/papers/4130/view]
-image::UTeachEngineering-process.png[background,size=contain]
+image::UTeachEngineering-process.png[-,width=800,background,size=contain]
 
 
 

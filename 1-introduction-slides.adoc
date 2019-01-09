@@ -1,3 +1,5 @@
 :imagesdir: fig
+:revealjs_transitionSpeed: fast
+:revealjs_theme: black-ece212
 
 include::1-introduction.adoc[]
