@@ -34,11 +34,27 @@ ifdef::backend-revealjs[=== !]
 
 
 === Syllabus review
-* Course introduction and brief <<syllabus.adoc#_,Syllabus>> review.
+* <<syllabus.adoc#_,Syllabus>>
+* Google Classroom
+* Slack
+* Grading
 
 
 === Overall course
-Project
+1. Explain the engineering design process.
+
+2. Perform all steps of the engineering design process.
+ 
+3. Design a solution to meet specified needs within realistic constraints.
+
+4. Work effectively as a member of a team.
+
+5. Recognize ethical and professional responsibilities in engineering situations.
+
+ifdef::backend-revealjs[=== !]
+&rarr; a project!
+
+
 
 === Typical before class
 *Guided Practice* are individual assignments to learn some new content and complete some basic work to become familiar with the material.
@@ -50,8 +66,14 @@ Project
 === Typical during class
 Class time will be used for deeper examples and more advanced application of the concept.
 
+[%step]
 * Different from other courses
+* Think easy at home -- harder in class
+* Better use of available help!
+* &Rarr; Must be prepared for class
 
+
+=== Activity: Finding needs
 
 ifdef::backend-revealjs[=== !]
 .Is It Worth the Time?
@@ -59,11 +81,18 @@ ifdef::backend-revealjs[=== !]
 image::is_it_worth_the_time.png[background,size=contain]
 
 
+ifdef::backend-revealjs[=== !]
+Find 3 needs people have around you.
+
+* Person/group must have a name.
+* 2-3 sentence description.
+
 
 == After class
 * [ ] Join your section's course in <<syllabus.adoc#_google_classroom,Google Classroom>>
 * [ ] Signup for a Slack account at https://valpo-engr.slack.com/signup
 
+* [ ] Watch for assigned work to prepare for session 2
 
 
 == Resources
