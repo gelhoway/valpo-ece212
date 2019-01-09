@@ -7,10 +7,7 @@ ECE 212
 (sign in to a lab PC)
 
 == Preparation
-
-* [ ] Signup for a Slack account at https://valpo-engr.slack.com/signup
-* [ ] Join your section's course in <<syllabus.adoc#_google_classroom,Google Classroom>>
-
+First day!
 
 == Class time
 <<1-introduction-slides.adoc#,Slides>>
@@ -36,10 +33,24 @@ ifdef::backend-revealjs[=== !]
 > Design is seeing a thing that does not yet exist and making it happen.
 
 
-ifdef::backend-revealjs[=== !]
+=== Syllabus review
 * Course introduction and brief <<syllabus.adoc#_,Syllabus>> review.
 
 
+=== Overall course
+Project
+
+=== Typical before class
+*Guided Practice* are individual assignments to learn some new content and complete some basic work to become familiar with the material.
+
+* Graded on a pass / no pass scale.
+* Must complete all items for credit.
+* Due the night before.
+
+=== Typical during class
+Class time will be used for deeper examples and more advanced application of the concept.
+
+* Different from other courses
 
 
 ifdef::backend-revealjs[=== !]
@@ -50,7 +61,9 @@ image::is_it_worth_the_time.png[background,size=contain]
 
 
 == After class
-Find 
+* [ ] Join your section's course in <<syllabus.adoc#_google_classroom,Google Classroom>>
+* [ ] Signup for a Slack account at https://valpo-engr.slack.com/signup
+
 
 
 == Resources
@@ -60,3 +73,5 @@ http://www.kennethkuhn.com/students/the%20science%20of%20design.htm[The Science 
 Differences between Engineering and Science.
 https://www.linkengineering.org/Explore/EngineeringDesign/6958.aspx[https://www.linkengineering.org/Explore/EngineeringDesign/6958.aspx^]
 
+
+// vim: tw=0
