@@ -1,3 +1,4 @@
+:toc: left
 
 = Engineering Design Process
 
@@ -14,9 +15,7 @@ image::MA_DoEd_EngineeringDesign.jpg[width=800,background,size=contain]
 
 
 
-== Class time
-<<2-process-slides.adoc#,Slides>>
-
+=== EiE Engineering Design Process
 [background-color="white"]
 ifdef::backend-revealjs[== !]
 .EiE Engineering Design Process
@@ -39,6 +38,7 @@ ifdef::backend-revealjs[== !]
 
 
 
+=== NCETE Engineering Design Process
 [background-color="white"]
 ifdef::backend-revealjs[== !]
 .NCETE Engineering Design Process
@@ -50,6 +50,7 @@ image::NCETE_EngineeringDesign.jpg[background,size=contain]
 
 
 
+=== UTeach__Engineering__ Engineering Design Process
 [background-color="white"]
 ifdef::backend-revealjs[== !]
 .UTeach__Engineering__ Engineering Design Process
@@ -57,6 +58,8 @@ ifdef::backend-revealjs[== !]
 image::UTeachEngineering-process.png[-,width=800,background,size=contain]
 
 
+== Class time
+<<2-process-slides.adoc#,Slides>>
 
 
 == After class
