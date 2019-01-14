@@ -15,24 +15,15 @@ https://docs.google.com/spreadsheets/d/1lhiTP_FWcWIptPWG0bhi009jbC8wNhC_0vyd-29l
 
 include::1-introduction.adoc[leveloffset=+1]
 
+'''
+<<<
+
 include::2-process.adoc[leveloffset=+1]
 
+'''
+<<<
 
-== System Requirements 1
-https://youtu.be/fgqt9SrqKfs
-
-* EARS -- Easy Approach to Requirements Syntax
-* Requirement vs. Implementation | What vs. How
-
-=== Due before class
-Read EARS resource
-
-What vs. how
-
-=== During class
-
-=== After class
-
+include::3-requirements-1.adoc[leveloffset=+1]
 
 '''
 <<<

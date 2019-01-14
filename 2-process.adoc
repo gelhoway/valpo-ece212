@@ -1,10 +1,33 @@
 :toc: left
 
+:g-refs: https://drive.google.com/drive/folders/1yPCZO3L-kPeykSCQGBeMw6bMt6skt4pf?usp=sharing[Reference Documents^]
+
 = Engineering Design Process
 
 
 
 == Preparation
+(This section is background information, reading, and tasks for your preparation for session 2)
+
+Study the four figures below that describe different views of the engineering design process.
+The images link to the sources of the figures.
+
+
+* [ ] Draw your own diagram that maps the engineering design process.
+** What is the minimum number of "`blocks`" needed to capture the essence of the engineering design process?  Provide some justification for this number.
+* [ ] How do you know when to move to the next step?
+
+There are several formal processes that organizations follow.
+This is usually described under the term _Systems Engineering_, which focuses on the larger scale organization of an entire project or system.
+See <<nasa>> for one example document.
+One reason for documenting this is so that everyone can use a common language when describing what they are working on and how it fits into the larger goals.
+
+
+See *hw02* in https://classroom.google.com[Google Classroom^] for the instructions on turning in this work.
+
+
+
+
 
 === MA DoEd Engineering Design
 [background-color="white"]
@@ -61,9 +84,15 @@ image::UTeachEngineering-process.png[-,width=800,background,size=contain]
 == Class time
 <<2-process-slides.adoc#,Slides>>
 
+* Pair-up and share the three needs others have that you identified from https://classroom.google.com/c/MjcxODYwMzkxNTBa/a/MjcyMzI5NzIwNzVa/details[hw01^].
+* As a pair, come up with 2 more.
+* (each group shares their common theme or favorite)
+
 
 == After class
 
 
 == Resources
+* [[nasa]]NASA Systems Engineering Handbook (`nasa_systems_engineering_handbook_0.pdf`) in {g-refs} folder.
 
+// vim: tw=0
