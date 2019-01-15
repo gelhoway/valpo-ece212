@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'asciidoctor-revealjs' # latest release
+gem 'asciidoctor', '1.5.8'
+gem 'asciidoctor-revealjs', '1.1.3'
