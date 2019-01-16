@@ -88,6 +88,37 @@ image::UTeachEngineering-process.png[-,width=800,background,size=contain]
 * As a pair, come up with 2 more.
 * (each group shares their common theme or favorite)
 
+=== Engineering Design Process
+Pull out your process diagram and share it with your neighbor.
+
+* Similarities
+* **Differences**
+
+
+ifdef::backend-revealjs[=== !]
+Next week:
+
+* More formal process
+* System Design Requirements
+
+
+ifdef::backend-revealjs[=== !]
+image::nasa-reviews.png[background,size=contain]
+
+
+
+=== Project groups
+
+https://docs.google.com/spreadsheets/d/1ejTuAom2mnuXoV6CFyNYi0O-2JGFYJu8LfG119LaBCc/edit?usp=sharing[Section B group assignments^]
+
+ifdef::backend-revealjs[=== !]
+Task:
+
+* Meet together and propose 2 needs or problems that you'd like to work on for this semester.
+* Select a "recording secretary" to write-up and report these proposals.
+* Solid paragraph
+** Need description
+** Non-group person who has this need
 
 == After class
 
