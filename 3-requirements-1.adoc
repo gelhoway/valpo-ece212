@@ -4,15 +4,97 @@
 
 https://youtu.be/fgqt9SrqKfs
 
-* EARS -- Easy Approach to Requirements Syntax
 * Requirement vs. Implementation | What vs. How
 
+
+* One thought
+* Concise
+* Positive statement
+* Unambiguous
+* Verifiable.  Inspection, analysis, demonstration, or test.
+
+Terminology
+* Shall - requirement
+* Will - facts or declaration of purpose
+* Should - goal
+
+
+Words to avoid:
+
+* about
+* acceptable
+* accommodate
+* adequate
+* "`and/or`"
+* appropriate
+* as allowed
+* as directed
+* be able to
+* compatible
+* desirable
+* durable
+* efficient
+* essential
+* optimum
+* possible
+* practical
+* reasonable
+* relevant
+* robust
+* significant
+* heavy duty
+* hereinafter
+* high
+* if possible
+* dependable
+* industrial grade
+* insufficient
+* intent
+* low
+* maximize
+* minimize
+* necessary
+* normal
+* smooth
+* strict
+* sufficient
+* suitable
+* user friendly
+* various
+* *ize and *ly
+
+Minimize use of:
+
+* all
+* any
+* each
+* every
+* intent
+* it
+* these
+* this
+
+
+
+BEFORE writing requirements:
+
+* Define: need, goals, and objectives
+* Identify all stakeholders
+* Identify drivers, constraints, dependencies
+* Document assumptions
+
+
+Eliciting requirements:
+
+* Operational concepts.  A day in the life...
+* User stories
+
 == Due before class
-Read EARS resource
 
 What vs. how
 
 == During class
+"Requirements Bingo"
 
 == After class
 

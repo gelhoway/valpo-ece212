@@ -27,17 +27,8 @@ include::3-requirements-1.adoc[leveloffset=+1]
 
 '''
 <<<
-== System Requirements 2
-"Requirements Bingo"
 
-<<LO-1>>
-
-=== Due before class
-
-=== During class
-
-=== After class
-
+include::4-requirements-2.adoc[leveloffset=+1]
 
 
 '''
