@@ -17,7 +17,7 @@ First day!
 ifdef::backend-revealjs[=== !]
 .La Clairvoyance -- René Magritte
 [link=https://www.renemagritte.org/la-clairvoyance.jsp]
-image::magritte-la-clairvoyance.jpg[background,size=contain]
+image::fig/magritte-la-clairvoyance.jpg[background,size=contain]
 
 
 [NOTE.speaker]
@@ -78,7 +78,7 @@ Class time will be used for deeper examples and more advanced application of the
 ifdef::backend-revealjs[=== !]
 .Is It Worth the Time?
 [link=https://xkcd.com/1205/]
-image::is_it_worth_the_time.png[background,size=contain]
+image::fig/is_it_worth_the_time.png[background,size=contain]
 
 
 ifdef::backend-revealjs[=== !]
