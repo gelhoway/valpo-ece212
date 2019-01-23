@@ -19,48 +19,6 @@ Terminology
 * Should - goal
 
 
-Words to avoid:
-
-* about
-* acceptable
-* accommodate
-* adequate
-* "`and/or`"
-* appropriate
-* as allowed
-* as directed
-* be able to
-* compatible
-* desirable
-* durable
-* efficient
-* essential
-* optimum
-* possible
-* practical
-* reasonable
-* relevant
-* robust
-* significant
-* heavy duty
-* hereinafter
-* high
-* if possible
-* dependable
-* industrial grade
-* insufficient
-* intent
-* low
-* maximize
-* minimize
-* necessary
-* normal
-* smooth
-* strict
-* sufficient
-* suitable
-* user friendly
-* various
 * *ize and *ly
 
 Minimize use of:
@@ -89,6 +47,113 @@ Eliciting requirements:
 * Operational concepts.  A day in the life...
 * User stories
 
+
+
+
+
+// //////////////////////////////////////////////
+
+
+* Give each requirement a unique identifier (QRA 3).
+  This makes referring to other requirements simple and clear.
+* Standardize your requirements document language (QRA 4).
+  Shall, must, wi
+
+
+
+
+=== Functional vs. non-functional
+
+[horizontal]
+Functional::  What the system *does*.  Use form "`The [device] _shall_ [verb] ...`"
+
+
+[horizontal]
+Non-functional:: Performance or constraints.  Use "`__must__`"
+
+
+
+=== Implementation-neutral
+
+* Clearly states what the system must _do_ and _not how_ it does it.
+
+* Stated in terms of _external interfaces_, or behaviors that can be readily
+_observed_ (therefore measured).
+
+
+
+=== Verifiable
+
+How can this requirement item be satisfied?
+
+* 
+
+
+=== Directives
+
+Use of Tables or other references instead of embedding in English sentences.
+
+[quote]
+____
+*3.2.5.4 Emergency Lighting* +
+The CTS shall provide automatically activated emergency lighting for crew
+egress and operational recovery in accordance with Table 3.2.5.4-1. [R.CTS.044]
+____
+
+
+
+=== Weak words
+
+about,
+acceptable,
+accommodate,
+adequate,
+"`and/or`",
+appropriate,
+as allowed,
+as directed,
+be able to,
+compatible,
+desirable,
+durable,
+easy,
+effective,
+efficient,
+enhance,
+essential,
+optimum,
+possible,
+practical,
+reasonable,
+relevant,
+reliable,
+robust,
+significant,
+heavy duty,
+hereinafter,
+high,
+if possible,
+dependable,
+industrial grade,
+insufficient,
+intent,
+low,
+maximize,
+minimize,
+necessary,
+normal,
+powerful,
+smooth,
+strict,
+sufficient,
+suitable,
+user friendly,
+various,
+
+
+
+
+
 == Due before class
 
 What vs. how
@@ -96,5 +161,68 @@ What vs. how
 == During class
 "Requirements Bingo"
 
-== After class
+
+=== R1
+The Crew Transport System (CTS) shall provide continuous autonomous launch abort capability from lift-off through orbital insertion with a 95% probability of success with at least 90% confidence in the event of a loss of thrust or loss of attitude control. [R.CTS.058]
+
+=== R2
+No hot surfaces should be present on the outside surface of the heater.
+
+=== R3
+The wheelchair must support one person’s weight and, when folded, must easily fit in the trunk of a car.
+
+=== R3
+The motorcycle gas mileage must be at least 60 mpg.
+
+=== R4
+The device shall not disturb any object with a mass greater than 2 kg.
+
+=== R5
+The robot must not come within 10 inches of the wall.
+
+=== R6
+The self-contained bin on the device shall have a volume exceeding 125 L.
+
+=== R7
+The software interface should be user friendly.
+
+=== R8
+The device shall consume less than 500 W average power in normal running state, measured over a time interval of one second.
+
+=== R9
+In normal running state, the device shall generate less than 70 dB noise.
+
+=== R10
+No external surface of the device shall exceed 25 degrees Celsius in temperature.
+
+=== R11
+The suit shall accommodate crew metabolic loads provided in Appendix F - Metabolic Loads during all flight phases while maintaining a core body temperature between 97 °F and 100.5 °F.
+
+=== R12
+The integrated space vehicle shall enable the crew to manually override higher level software control/automation (such as automated abort initiation, configuration change, and mode change) during pre-launch operations and ascent when the override of the software directly cause a catastrophic event. [R.CTS.050]
+
+=== R13
+The device shall be powered by 120VAC electricity.
+
+=== R13
+The in-vehicle infotainment system shall be compatible with the devices listed in Table R.7.54
+
+=== R14
+The spacecraft shall be enhanced to protect the crew from an impact force of
+400kg.
+
+
+
+
+
+
+== Reference
+
+link:docs/21_Tips_for_Writing_Exceptionally_Clear_Requirements.pdf[QRA: 21 Tips for Writing Exceptionally Clear Requirements^]
+
+link:docs/Requirement-Experts-Reference-Card-merged-for-web-site.pdf[Requirements
+Experts: Reference Card^]
+
+
+
 
