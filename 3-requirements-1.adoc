@@ -166,7 +166,7 @@ What vs. how
 
 
 === R1
-The Crew Transport System (CTS) shall provide continuous autonomous launch abort capability from lift-off through orbital insertion with a 95% probability of success with at least 90% confidence in the event of a loss of thrust or loss of attitude control. [R.CTS.058]
+The Crew Transport System (CTS) need to provide continuous autonomous launch abort capability from lift-off through orbital insertion with a 95% probability of success with at least 90% confidence in the event of a loss of thrust or loss of attitude control.
 
 === R2
 No hot surfaces should be present on the outside surface of the heater.
@@ -174,46 +174,38 @@ No hot surfaces should be present on the outside surface of the heater.
 === R3
 The wheelchair must support one person’s weight and, when folded, must easily fit in the trunk of a car.
 
-=== R3
+=== R4
 The motorcycle gas mileage must be at least 60 mpg.
 
-=== R4
+=== R5
 The device shall not disturb any object with a mass greater than 2 kg.
 
-=== R5
+=== R6
 The robot must not come within 10 inches of the wall.
 
-=== R6
-The self-contained bin on the device shall have a volume exceeding 125 L.
-
 === R7
-The software interface should be user friendly.
+The self-contained bin on the device shall have a volume around 125 L.
 
 === R8
-The device shall consume less than 500 W average power in normal running state, measured over a time interval of one second.
+The software interface should be user friendly and use the Terasic display.
 
 === R9
-In normal running state, the device shall generate less than 70 dB noise.
+The device shall not consume more than 500 W average power in normal running state, measured over a time interval of one second.
 
 === R10
-No external surface of the device shall exceed 25 degrees Celsius in temperature.
+In normal running state, the device shall generate less noise than a running car.
 
 === R11
-The suit shall accommodate crew metabolic loads provided in Appendix F - Metabolic Loads during all flight phases while maintaining a core body temperature between 97 °F and 100.5 °F.
+No external surface of the device shall exceed 25 degrees Celsius in temperature otherwise the system should use a fan to reduce its temperature.
 
 === R12
-The integrated space vehicle shall enable the crew to manually override higher level software control/automation (such as automated abort initiation, configuration change, and mode change) during pre-launch operations and ascent when the override of the software directly cause a catastrophic event. [R.CTS.050]
+The suit shall accommodate crew metabolic loads provided in Appendix F - Metabolic Loads during all flight phases while maintaining a good core body temperature.
 
 === R13
-The device shall be powered by 120VAC electricity.
-
-=== R13
-The in-vehicle infotainment system shall be compatible with the devices listed in Table R.7.54
+The spacecraft shall be enhanced to protect the crew from any impact force.
 
 === R14
-The spacecraft shall be enhanced to protect the crew from an impact force of
-400kg.
-
+The device shall be powered by 120VAC electricity.
 
 
 
